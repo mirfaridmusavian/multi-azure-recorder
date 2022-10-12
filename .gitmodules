@@ -2,3 +2,8 @@
 	path = Azure-Kinect-Sensor-SDK
 	url = https://github.com/MobileRoboticsSkoltech/Azure-Kinect-Sensor-SDK
 	branch = mrob-patches
+
+[submodule "ORB-SLAM3-Datasets-Preprocessing"]
+	path = ORB-SLAM3-Datasets-Preprocessing
+	url = https://github.com/vnmsklnk/ORB-SLAM3-Datasets-Preprocessing
+	branch = mrob-patches
