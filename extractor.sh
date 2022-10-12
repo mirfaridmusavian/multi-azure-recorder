@@ -2,7 +2,7 @@
 
 #Usage: bash extractor input_directory output_directory
 
-use_cpp_extractor=true
+use_cpp_extractor=false
 
 if [ "$#" -ne 1 ] && [ "$#" -ne 2 ]; then
     echo "Usage: extractor input_directory or extractor input_directory output_directory"
